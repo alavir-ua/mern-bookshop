@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-#E-commerce web-app built with MERN stack
+# E-commerce web-app built with MERN stack
  
 An example of a complex application (bookstore) with React, Redux, Express and MongoDB
 
