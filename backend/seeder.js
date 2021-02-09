@@ -28,8 +28,8 @@ const importData = async () => {
     //creating admin
     const admin = new User({
       name: 'Admin',
-      email: 'alavir.web.dev@gmail.com',
-      password: '300Fg720Lj%Y342z',
+      email: 'admin@email.com',
+      password: '123456',
       isAdmin: true,
     })
 
@@ -44,7 +44,7 @@ const importData = async () => {
       const user = new User({
         name,
         email: email.toLowerCase(),
-        password: 'rT56Hbwe$h#92h1',
+        password: '123456',
       })
 
       const createdUser = await user.save()
@@ -53,7 +53,6 @@ const importData = async () => {
     }
 
     //creating categories
-
     const categoriesArray = [
       'Literary',
       'Historical',
