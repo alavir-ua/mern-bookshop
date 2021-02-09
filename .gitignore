@@ -1,0 +1,7 @@
+.idea
+.git
+node_modules
+.env
+.prettierrc
+/frontend/node_modules
+/frontend/.env
