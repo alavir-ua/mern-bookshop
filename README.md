@@ -72,4 +72,4 @@ npm run client
 After that, open the browser at http://localhost:3000/ to view the result.
 
 ## Links
-[Live Demo](https://mern-bookshop.herokuapp.com/)
+[Live Demo](https://mern-bookshop.vercel.app/)
